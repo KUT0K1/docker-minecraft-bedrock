@@ -1,0 +1,3 @@
+[submodule "BedrockConnect"]
+	path = BedrockConnect
+	url = https://github.com/KUT0K1/BedrockConnect
